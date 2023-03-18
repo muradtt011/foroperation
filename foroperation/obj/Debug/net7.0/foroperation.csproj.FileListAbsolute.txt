@@ -1,0 +1,15 @@
+/Users/murad/Projects/foroperation/foroperation/bin/Debug/net7.0/foroperation
+/Users/murad/Projects/foroperation/foroperation/bin/Debug/net7.0/foroperation.deps.json
+/Users/murad/Projects/foroperation/foroperation/bin/Debug/net7.0/foroperation.runtimeconfig.json
+/Users/murad/Projects/foroperation/foroperation/bin/Debug/net7.0/foroperation.dll
+/Users/murad/Projects/foroperation/foroperation/bin/Debug/net7.0/foroperation.pdb
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.csproj.AssemblyReference.cache
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.AssemblyInfoInputs.cache
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.AssemblyInfo.cs
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.csproj.CoreCompileInputs.cache
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.dll
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/refint/foroperation.dll
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.pdb
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/foroperation.genruntimeconfig.cache
+/Users/murad/Projects/foroperation/foroperation/obj/Debug/net7.0/ref/foroperation.dll
